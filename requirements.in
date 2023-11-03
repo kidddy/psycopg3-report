@@ -1,0 +1,7 @@
+sqlalchemy
+psycopg[binary]
+asyncpg
+pydantic-settings
+uvloop
+matplotlib
+numpy

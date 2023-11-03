@@ -1,0 +1,12 @@
+env/*
+.env/*
+.pytest_cache/*
+.mypy_cache/*
+.ruff_cache/*
+.vscode
+.idea
+*.pyc
+dev.env
+prod.env
+.TODO
+compiled_package/*
